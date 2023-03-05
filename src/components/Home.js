@@ -1,6 +1,6 @@
 import React from "react";
 import { motion } from "framer-motion";
-const Navbar = () => {
+const Home = () => {
   return (
     <>
       <header className="nav-bar">
@@ -60,4 +60,4 @@ const Navbar = () => {
   );
 };
 
-export default Navbar;
+export default Home;
